@@ -1,0 +1,6 @@
+pregunta 1
+RTA= B
+Pregunta 2
+RTA= C
+Pregunta 3
+RTA = B

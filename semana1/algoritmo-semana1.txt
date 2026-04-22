@@ -1,0 +1,9 @@
+inicio de ejemplo
+1. buscar informacion
+2. revisar fuente
+3. confirmar noticia
+4. revisar contenido
+5. decidir si es real o mala informavion
+6. desidir si compartir o reportar
+
+
